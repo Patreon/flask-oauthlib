@@ -1,4 +1,4 @@
-w# coding: utf-8
+# coding: utf-8
 """
     flask_oauthlib.provider.oauth2
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
